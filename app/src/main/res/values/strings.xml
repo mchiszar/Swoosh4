@@ -6,4 +6,10 @@
     <string name="OnGoingAllOut">On Going All Out</string>
     <string name="FindTeam">Find a team in the city and dominate your league</string>
     <string name="GetStarted">GET STARTED</string>
+    <string name="DecisionBkg">Decision Background</string>
+    <string name="DesiredLeague">Desired League</string>
+    <string name="Mens">Mens</string>
+    <string name="Womens">Womens</string>
+    <string name="Coed">Coed</string>
+    <string name="Next">Next</string>
 </resources>
