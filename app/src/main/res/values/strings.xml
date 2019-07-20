@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Swoosh4</string>
+    <string name="WelcomeLogo">WelcomeLogo</string>
+    <string name="SwooshLogo">SwooshLogo</string>
+    <string name="GoAllIn">GO ALL IN</string>
+    <string name="OnGoingAllOut">On Going All Out</string>
+    <string name="FindTeam">Find a team in the city and dominate your league</string>
+    <string name="GetStarted">GET STARTED</string>
 </resources>
