@@ -21,4 +21,8 @@
     <string name="onMensClicked">onMensClicked</string>
     <string name="onWomensClicked">onWomensClicked</string>
     <string name="onCoedClicked">onCoedClicked</string>
+    <string name="onBeginnerClick">onBeginnerClick</string>
+    <string name="onBallerClick">onBallerClick</string>
+    <string name="onSkillFinishClicked">onSkillFinishClicked</string>
+    <string name="FinishBkg">Finish Background</string>
 </resources>
