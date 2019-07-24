@@ -12,4 +12,10 @@
     <string name="Womens">Womens</string>
     <string name="Coed">Coed</string>
     <string name="Next">Next</string>
+    <string name="IamA">I am a:</string>
+    <string name="Beginner">BEGINNER</string>
+    <string name="Baller">BALLER</string>
+    <string name="Finish">FINISH</string>
+    <string name="BackgroundImage">Background Image</string>
+    <string name="leagueNextClicked">leagueNextClicked</string>
 </resources>
