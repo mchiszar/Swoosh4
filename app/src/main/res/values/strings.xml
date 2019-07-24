@@ -18,4 +18,7 @@
     <string name="Finish">FINISH</string>
     <string name="BackgroundImage">Background Image</string>
     <string name="leagueNextClicked">leagueNextClicked</string>
+    <string name="onMensClicked">onMensClicked</string>
+    <string name="onWomensClicked">onWomensClicked</string>
+    <string name="onCoedClicked">onCoedClicked</string>
 </resources>
